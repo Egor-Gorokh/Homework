@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Egor-Gorokh/Homework/static/css/main.073c9b0a.css",
-    "main.js": "/Egor-Gorokh/Homework/static/js/main.d5f37792.js",
-    "static/js/787.177e23c2.chunk.js": "/Egor-Gorokh/Homework/static/js/787.177e23c2.chunk.js",
-    "index.html": "/Egor-Gorokh/Homework/index.html",
-    "main.073c9b0a.css.map": "/Egor-Gorokh/Homework/static/css/main.073c9b0a.css.map",
-    "main.d5f37792.js.map": "/Egor-Gorokh/Homework/static/js/main.d5f37792.js.map",
-    "787.177e23c2.chunk.js.map": "/Egor-Gorokh/Homework/static/js/787.177e23c2.chunk.js.map"
+    "main.css": "/Homework/static/css/main.073c9b0a.css",
+    "main.js": "/Homework/static/js/main.d5ad9b95.js",
+    "static/js/787.177e23c2.chunk.js": "/Homework/static/js/787.177e23c2.chunk.js",
+    "index.html": "/Homework/index.html",
+    "main.073c9b0a.css.map": "/Homework/static/css/main.073c9b0a.css.map",
+    "main.d5ad9b95.js.map": "/Homework/static/js/main.d5ad9b95.js.map",
+    "787.177e23c2.chunk.js.map": "/Homework/static/js/787.177e23c2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.d5f37792.js"
+    "static/js/main.d5ad9b95.js"
   ]
 }
